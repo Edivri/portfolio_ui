@@ -27,8 +27,8 @@ class MyHobbyPage extends StatelessWidget {
                       child: Column(
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: const [
-                          Icon(Icons.code, color: Colors.blue, size: 70),
-                          Text("Ngoding & Pentest"),
+                          Icon(Icons.code, color: Colors.teal, size: 70),
+                          Text("Backend & Mobile"),
                         ],
                       ),
                     ),
@@ -42,8 +42,8 @@ class MyHobbyPage extends StatelessWidget {
                       child: Column(
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: const [
-                          Icon(Icons.movie, color: Colors.blue, size: 70),
-                          Text("Nonton Film"),
+                          Icon(Icons.movie, color: Colors.teal, size: 70),
+                          Text("Life and Love"),
                         ],
                       ),
                     ),
@@ -59,10 +59,10 @@ class MyHobbyPage extends StatelessWidget {
                         children: const [
                           Icon(
                             Icons.run_circle_outlined,
-                            color: Colors.blue,
+                            color: Colors.teal,
                             size: 70,
                           ),
-                          Text("Lari"),
+                          Text("Engineering"),
                         ],
                       ),
                     ),
