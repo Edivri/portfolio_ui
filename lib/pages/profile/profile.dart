@@ -9,7 +9,7 @@ class ProfileScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         elevation: 0.0,
-        backgroundColor: Colors.blue,
+        backgroundColor: Colors.teal,
       ),
       body: SingleChildScrollView(
         child: Stack(
