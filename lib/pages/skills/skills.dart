@@ -13,7 +13,7 @@ class SkillPage extends StatelessWidget {
       'Figma'
     ];
     return Scaffold(
-      appBar: AppBar(title: const Text("Skills"), centerTitle: true),
+      appBar: AppBar(title: const Text("Skills"), centerTitle: true, backgroundColor: Colors.teal,),
       body: ListView.builder(
         itemCount: titles.length,
         itemBuilder: (context, index) {
