@@ -44,39 +44,39 @@ class ProfileScreen extends StatelessWidget {
                   decoration: const BoxDecoration(
                     shape: BoxShape.circle,
                     image: DecorationImage(
-                      image: AssetImage("assets/images/bims.jpg"),
+                      image: AssetImage("assets/images/me.jpg"),
                       fit: BoxFit.cover,
                     ),
                   ),
                 ),
                 const SizedBox(height: 10),
                 const Text(
-                  "Bimantara Sutato Putra",
+                  "Jane Doe",
                   style: TextStyle(fontSize: 19, fontWeight: FontWeight.bold),
                 ),
                 const SizedBox(height: 5),
                 const Text(
-                  "Kota Bekasi, Indonesia",
+                  "Landscapes, Realm",
                   style: TextStyle(fontSize: 15.0),
                 ),
                 const SizedBox(height: 5),
                 const ListTile(
                   leading: Icon(Icons.email),
                   title: Text("Email"),
-                  subtitle: Text("bimantara2000.bsp2521@gmail.com"),
+                  subtitle: Text("example.com"),
                 ),
                 const Divider(),
                 const ListTile(
                   leading: Icon(Icons.phone),
                   title: Text("Phone"),
-                  subtitle: Text("+62 877-7506-9322"),
+                  subtitle: Text("+234-9322-84745"),
                 ),
                 const Divider(),
                 const ListTile(
                   leading: Icon(Icons.location_on_rounded),
                   title: Text("Address"),
                   subtitle: Text(
-                    "Perum Wisma Jaya, Kel.Duren Jaya - Bekasi Timur",
+                    "Earth",
                   ),
                 ),
                 const Divider(),
