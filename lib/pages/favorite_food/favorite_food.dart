@@ -16,7 +16,7 @@ class MyFavoriteFood extends StatelessWidget {
               child: Material(
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(24.0),
-                shadowColor: Colors.blue,
+                shadowColor: Colors.teal,
                 elevation: 14.0,
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -38,7 +38,7 @@ class MyFavoriteFood extends StatelessWidget {
                           const Text(
                             'Mie Ayam',
                             style: TextStyle(
-                              color: Colors.blue,
+                              color: Colors.teal,
                               fontSize: 18.0,
                               fontWeight: FontWeight.bold,
                             ),
@@ -57,7 +57,7 @@ class MyFavoriteFood extends StatelessWidget {
               child: Material(
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(24.0),
-                shadowColor: Colors.blue,
+                shadowColor: Colors.teal,
                 elevation: 14.0,
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -76,9 +76,9 @@ class MyFavoriteFood extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: <Widget>[
                           const Text(
-                            'Spaghetti',
+                            'Stirred Spaghetti',
                             style: TextStyle(
-                              color: Colors.blue,
+                              color: Colors.teal,
                               fontSize: 18.0,
                               fontWeight: FontWeight.bold,
                             ),
@@ -97,7 +97,7 @@ class MyFavoriteFood extends StatelessWidget {
               child: Material(
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(24.0),
-                shadowColor: Colors.blue,
+                shadowColor: Colors.teal,
                 elevation: 14.0,
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -118,7 +118,7 @@ class MyFavoriteFood extends StatelessWidget {
                           const Text(
                             'Burger',
                             style: TextStyle(
-                              color: Colors.blue,
+                              color: Colors.teal,
                               fontSize: 18.0,
                               fontWeight: FontWeight.bold,
                             ),
@@ -137,7 +137,7 @@ class MyFavoriteFood extends StatelessWidget {
               child: Material(
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(24.0),
-                shadowColor: Colors.blue,
+                shadowColor: Colors.teal,
                 elevation: 14.0,
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -158,7 +158,7 @@ class MyFavoriteFood extends StatelessWidget {
                           const Text(
                             'Pizza',
                             style: TextStyle(
-                              color: Colors.blue,
+                              color: Colors.teal,
                               fontSize: 18.0,
                               fontWeight: FontWeight.bold,
                             ),
