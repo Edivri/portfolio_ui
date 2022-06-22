@@ -26,7 +26,7 @@ class _MyEducationState extends State<MyEducation> {
               child: Material(
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(24.0),
-                shadowColor: Colors.blue,
+                shadowColor: Colors.teal,
                 elevation: 14.0,
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -45,9 +45,9 @@ class _MyEducationState extends State<MyEducation> {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: <Widget>[
                           const Text(
-                            'SDN DUREN JAYA XIV',
+                            'lorem ipsom',
                             style: TextStyle(
-                              color: Colors.blue,
+                              color: Colors.teal,
                               fontSize: 28.0,
                               fontWeight: FontWeight.bold,
                             ),
@@ -55,7 +55,7 @@ class _MyEducationState extends State<MyEducation> {
                           Row(
                             children: const [
                               Text(
-                                '2007-2013',
+                                '2018-2022',
                                 style: TextStyle(
                                   color: Colors.black54,
                                   fontSize: 18.0,
@@ -77,7 +77,7 @@ class _MyEducationState extends State<MyEducation> {
               child: Material(
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(24.0),
-                shadowColor: Colors.blue,
+                shadowColor: Colors.teal,
                 elevation: 14.0,
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -96,9 +96,9 @@ class _MyEducationState extends State<MyEducation> {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: <Widget>[
                           const Text(
-                            'SMP PGRI 1 KOTA BEKASI',
+                            'ijndfjgnrkjngkrnfghkr',
                             style: TextStyle(
-                              color: Colors.blue,
+                              color: Colors.teal,
                               fontSize: 24.0,
                               fontWeight: FontWeight.bold,
                             ),
@@ -128,7 +128,7 @@ class _MyEducationState extends State<MyEducation> {
               child: Material(
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(24.0),
-                shadowColor: Colors.blue,
+                shadowColor: Colors.teal,
                 elevation: 14.0,
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -147,9 +147,9 @@ class _MyEducationState extends State<MyEducation> {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: <Widget>[
                           const Text(
-                            'SMK NEGERI 6 KOTA BEKASI',
+                            'kjnkjngkortnhkthlktht',
                             style: TextStyle(
-                              color: Colors.blue,
+                              color: Colors.teal,
                               fontSize: 24.0,
                               fontWeight: FontWeight.bold,
                             ),
@@ -157,7 +157,7 @@ class _MyEducationState extends State<MyEducation> {
                           Row(
                             children: const [
                               Text(
-                                '2016-2019',
+                                '2014-2019',
                                 style: TextStyle(
                                   color: Colors.black54,
                                   fontSize: 18.0,
@@ -179,7 +179,7 @@ class _MyEducationState extends State<MyEducation> {
               child: Material(
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(24.0),
-                shadowColor: Colors.blue,
+                shadowColor: Colors.teal,
                 elevation: 14.0,
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -201,9 +201,9 @@ class _MyEducationState extends State<MyEducation> {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: <Widget>[
                           const Text(
-                            'UNIVERSITAS BHAYANGKARA \nJAKARTA RAYA',
+                            'LOREM, UNI UT RRRIRI',
                             style: TextStyle(
-                              color: Colors.blue,
+                              color: Colors.teal,
                               fontSize: 24.0,
                               fontWeight: FontWeight.bold,
                             ),
