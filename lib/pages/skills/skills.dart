@@ -7,10 +7,10 @@ class SkillPage extends StatelessWidget {
   Widget build(BuildContext context) {
     final titles = [
       'Flutter',
-      'JavaScript',
-      'Python',
-      'MySQL',
-      'Penetration Testing'
+      'TypeScript',
+      'Dart',
+      'Swift',
+      'Figma'
     ];
     return Scaffold(
       appBar: AppBar(title: const Text("Skills"), centerTitle: true),
